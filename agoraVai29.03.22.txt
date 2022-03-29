@@ -4,3 +4,10 @@
 4-preto
 5-borboleta
 
+O que eu vou aprender na Trybe:
+
+-Unix
+-Bash
+-Git
+-HTML
+-CSS
